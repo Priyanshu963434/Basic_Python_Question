@@ -1,5 +1,5 @@
                                                #FUNCATIONS
-'''
+
 #Write a Python function to check if a number is prime.
 def checkPrime(num):
     for i in range(2,int(num/2)):
@@ -108,7 +108,7 @@ def findUnique(list1):
 list1 = [2,5,3,7,8,5,9,7,6,9]
 print("List : ",list1)
 print("Unique List : ",findUnique(list1))
-'''
+
 
 
 
