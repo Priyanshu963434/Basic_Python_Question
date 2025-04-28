@@ -1,5 +1,5 @@
                                   #STRINGS
-'''
+
 #Write a Python program to count the number of vowels in a string.
 str1 = input("Enter A String/Sentence : ")
 print("Your String : ",str1)
@@ -110,7 +110,7 @@ str1 = "We Are Learning Python Programming"
 strList = str1.split(" ")
 print("String : ",str1)
 print("Number of Words in String : ",len(strList))
-'''
+
 
 
 
