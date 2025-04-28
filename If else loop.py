@@ -1,5 +1,5 @@
                               #control if else loop
-'''
+
 # Write a Python program to check whether a number is positive, negative, or zero.
 num = int( input("Enter A Number : ") )
 if(num>0):
@@ -89,4 +89,4 @@ if(temp==total):
     print("Number is Armstrong")
 else:
     print("Number is Not Armstrong")
-'''
+
