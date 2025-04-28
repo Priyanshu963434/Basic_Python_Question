@@ -1,5 +1,5 @@
                                 #LIST AND TUPLES
-'''
+
 #Write a program to find the maximum and minimum numbers in a list.
 list1 = [ 3,45,67,8,67,43,23,4,56,78,98,56,43,23,21,23 ]
 min = list1[0]
@@ -111,7 +111,7 @@ print("Dictionary : ",dict1)
 # Output:
 # List1 :  [('a', 23), ('b', 35), ('c', 35), ('d', 67), ('e', 36)]
 # Dictionary :  {'a': 23, 'b': 35, 'c': 35, 'd': 67, 'e': 36}
-'''
+
 
 
 
