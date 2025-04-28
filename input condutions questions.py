@@ -1,5 +1,5 @@
                                           #CONDITIONAL STATEMENT#
-'''
+
 #WAP to calculate gross salary of an employ where hra is 20% da is 30% of basic
 bs=float(input("enter basic salary: "))
 if (bs>25000):
@@ -98,4 +98,4 @@ num1 = int( input("Enter A Number : ") )
 num2 = int( input("Entre B Number : ") )
 add = num1+num2
 print("Addition : ",add) 
-'''
+
